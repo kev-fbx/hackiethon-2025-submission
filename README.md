@@ -2,7 +2,7 @@
 Submission files for Hackiethon 2025
 
 # Dependencies
-npm install react-spring/web 
+npm install react-spring
 
 npm install framer-motion
 
