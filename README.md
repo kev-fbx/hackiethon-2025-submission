@@ -2,6 +2,8 @@
 Submission files for Hackiethon 2025
 
 # Dependencies
+Please use our jackage.json if the commands still don't work
+
 npm install react-spring
 
 npm install framer-motion
