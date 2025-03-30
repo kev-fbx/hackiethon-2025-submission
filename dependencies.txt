@@ -1,0 +1,5 @@
+npm install react-spring/web 
+npm install framer-motion
+npm install lucide-react
+npm install react-confetti
+npm install react-use-gesture
