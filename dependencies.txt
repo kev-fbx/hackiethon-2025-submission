@@ -1,4 +1,4 @@
-npm install react-spring/web 
+npm install react-spring
 npm install framer-motion
 npm install lucide-react
 npm install react-confetti
