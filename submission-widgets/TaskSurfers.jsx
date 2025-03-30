@@ -19,6 +19,8 @@ import {
 import { motion } from "framer-motion";
 import PropTypes from "prop-types";
 
+import './index.css';
+
 export default function TaskSurfers() {
   const [tasks, setTasks] = useState([]);
   const [newTask, setNewTask] = useState("");
